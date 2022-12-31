@@ -1,0 +1,5 @@
+Day1:Basic of PYTHON
+Day2:Operators
+Day3:List
+Day4:string
+Day5:Datatypes
